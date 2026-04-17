@@ -1,0 +1,25 @@
+.product {
+
+    border: 2px rgb(174, 21, 108) dotted;
+    margin: 20px;
+    padding: 20px;
+}
+
+.orders {
+    border: #dc15aa salmon;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: hotpink;
+}
+
+.price {
+    color: rgba(48, 211, 219, 0.847);
+}
+body {
+
+       background-color: darkcyan;
+
+}
